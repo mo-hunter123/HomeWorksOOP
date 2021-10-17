@@ -1,9 +1,9 @@
 # This repositroy contains exercices related to Object Oriented Programming Pradigme 
 
 ## TD1 -> Complex number 
-## TD1 -> Complex number 
-## TD1 -> Complex number 
-## TD1 -> Stacks manipulation 
+## TD2 -> Point et Cercle 
+## TD3 -> Cprojet Banque
+## TD4 -> Stacks manipulation 
 
 # Inheristance rules in C++
 
